@@ -2,7 +2,7 @@
 
 ### NOTE: This repository currently has nothing in it because Geometry Dash 2.21 has not released yet.
 
-Open source private server for Geometry Dash specifically for update 2.21     
+### Open source private server for Geometry Dash specifically for update 2.21     
 
 Supported version of Geometry Dash: 2.21+     
 
