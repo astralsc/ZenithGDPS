@@ -4,7 +4,7 @@
 
 ### Open source private server for Geometry Dash specifically for update 2.21     
 
-Supported version of Geometry Dash: 2.21+     
+Supported version of Geometry Dash: 2.21+
 
 Required version of PHP: 7.2.7+
 
