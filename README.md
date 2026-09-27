@@ -1,12 +1,13 @@
 # ZenithGDPS
 ### Open source private server for Geometry Dash written in JavaScript    
 
-Supported versions of Geometry Dash
+Required version of Node.js: v26.10.0+
+
+---
+
+## Supported versions of Geometry Dash
 ```
 - Lite 1.01_1
-```
-
-Required version of Node.js: v26.10.0+
 
 ---
 
